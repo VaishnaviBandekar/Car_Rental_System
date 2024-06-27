@@ -1,5 +1,4 @@
 # Car_Rental_System
-# Car Rental System
 
 ## Introduction
 Welcome to the Car Rental System project! This system allows customers to rent different types of cars (Petrol, Electric, Diesel) by providing their details and selecting the desired car model. The program calculates the total rental cost and generates a bill for the customer.
