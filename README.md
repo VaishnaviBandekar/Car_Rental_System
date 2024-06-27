@@ -82,10 +82,11 @@ Welcome to the Car Rental System project! This system allows customers to rent d
 5. Confirm the booking to generate the bill.
 
 ## Example Usage
+
 Enter following details
 Enter your Name: John
 Enter User Id: 12345
-Enter Contact: 9874553210
+Enter Contact: 9776542344
 Enter number of days for rent: 3
 Enter 1 for Petrol Car
 Enter 2 for Electric vehicle
@@ -102,12 +103,13 @@ Your Car is Booked
 -------------------------BILL-------------------------
 Name: John
 User-Id: 12345
-Contact: 9874553210
+Contact: 9776542344
 Car chosen:
 Car type: Petrol
 Model: Maruti Alto K10
 Number of days of rent: 3
 Total Amount : 800
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
